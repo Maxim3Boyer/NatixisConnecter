@@ -41,5 +41,6 @@ jobs:
           git add output/*
           git add output_html/*
           git diff --cached --quiet || git commit -m "update funds"
+          git pull
           git push
 
