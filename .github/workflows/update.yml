@@ -5,6 +5,9 @@ on:
   workflow_dispatch:
 permissions:
   contents: write
+concurrency:
+  group: natixis-update
+  cancel-in-progress: true
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -35,12 +38,19 @@ jobs:
           python script/traduction.py
       - name: Commit data
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+      
           git add data/funds.json
-          git add output/*
-          git add output_html/*
-          git diff --cached --quiet || git commit -m "update funds"
-          git pull
-          git push
+          git add output/
+          git add output_html/
+      
+          git diff --cached --quiet && exit 0
+      
+          git commit -m "update funds"
+      
+          git fetch origin main
+          git rebase origin/main
+      
+          git push origin main
 
