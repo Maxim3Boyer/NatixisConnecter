@@ -149924,6 +149924,14 @@
           "value": 76.58,
           "currencyCode": "EUR"
         },
+        "monthEnd": false
+      },
+      {
+        "date": "2026-06-03",
+        "amount": {
+          "value": 76.21,
+          "currencyCode": "EUR"
+        },
         "monthEnd": true
       }
     ]
