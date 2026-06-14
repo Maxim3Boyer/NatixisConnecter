@@ -207,4 +207,4 @@ with sync_playwright() as p:
         )
    
     browser.close()
-    print('update de data terminé")
+    print("update de data terminé")
