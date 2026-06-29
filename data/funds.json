@@ -28938,6 +28938,14 @@
           "value": 38.937,
           "currencyCode": "EUR"
         },
+        "monthEnd": false
+      },
+      {
+        "date": "2026-06-29",
+        "amount": {
+          "value": 38.945,
+          "currencyCode": "EUR"
+        },
         "monthEnd": true
       }
     ]
@@ -59241,13 +59249,21 @@
           "value": 152.02781,
           "currencyCode": "EUR"
         },
+        "monthEnd": false
+      },
+      {
+        "date": "2026-06-26",
+        "amount": {
+          "value": 152.03588,
+          "currencyCode": "EUR"
+        },
         "monthEnd": true
       }
     ]
   },
   {
     "id": 767,
-    "label": "EDF SOLIDAIRE ET BAS-CARBONE PART E",
+    "label": "EDF SOLIDAIRE ET BAS-CARBONE E",
     "product": "PEG",
     "history": [
       {
@@ -69902,6 +69918,14 @@
         "date": "2026-06-25",
         "amount": {
           "value": 23.59,
+          "currencyCode": "EUR"
+        },
+        "monthEnd": false
+      },
+      {
+        "date": "2026-06-26",
+        "amount": {
+          "value": 23.58,
           "currencyCode": "EUR"
         },
         "monthEnd": true
@@ -100215,6 +100239,14 @@
           "value": 287.04293,
           "currencyCode": "EUR"
         },
+        "monthEnd": false
+      },
+      {
+        "date": "2026-06-26",
+        "amount": {
+          "value": 286.32996,
+          "currencyCode": "EUR"
+        },
         "monthEnd": true
       }
     ]
@@ -102836,7 +102868,7 @@
   },
   {
     "id": 2938,
-    "label": "EGEPARGNE ACTIONS CROISSANCE EURO PART E",
+    "label": "EGEPARGNE ACTIONS CROISSANCE EURO E",
     "product": "PEG",
     "history": [
       {
@@ -150858,7 +150890,7 @@
   },
   {
     "id": 767,
-    "label": "EDF SOLIDAIRE ET BAS-CARBONE PART E",
+    "label": "EDF SOLIDAIRE ET BAS-CARBONE E",
     "product": "PERCO",
     "history": [
       {
@@ -161513,6 +161545,14 @@
         "date": "2026-06-25",
         "amount": {
           "value": 23.59,
+          "currencyCode": "EUR"
+        },
+        "monthEnd": false
+      },
+      {
+        "date": "2026-06-26",
+        "amount": {
+          "value": 23.58,
           "currencyCode": "EUR"
         },
         "monthEnd": true
@@ -173799,13 +173839,21 @@
           "value": 13.7521,
           "currencyCode": "EUR"
         },
+        "monthEnd": false
+      },
+      {
+        "date": "2026-06-26",
+        "amount": {
+          "value": 13.48874,
+          "currencyCode": "EUR"
+        },
         "monthEnd": true
       }
     ]
   },
   {
     "id": 1104,
-    "label": "EGEPARGNE ACTIONS CROISSANCE EURO PART S",
+    "label": "EGEPARGNE ACTIONS CROISSANCE EURO S",
     "product": "PERCO",
     "history": [
       {
@@ -175188,6 +175236,14 @@
         "date": "2026-06-25",
         "amount": {
           "value": 107.14,
+          "currencyCode": "EUR"
+        },
+        "monthEnd": false
+      },
+      {
+        "date": "2026-06-26",
+        "amount": {
+          "value": 107.28,
           "currencyCode": "EUR"
         },
         "monthEnd": true
@@ -177532,6 +177588,14 @@
           "value": 106.51,
           "currencyCode": "EUR"
         },
+        "monthEnd": false
+      },
+      {
+        "date": "2026-06-26",
+        "amount": {
+          "value": 105.96,
+          "currencyCode": "EUR"
+        },
         "monthEnd": true
       }
     ]
@@ -178411,13 +178475,21 @@
           "value": 98.95,
           "currencyCode": "EUR"
         },
+        "monthEnd": false
+      },
+      {
+        "date": "2026-06-26",
+        "amount": {
+          "value": 97.95,
+          "currencyCode": "EUR"
+        },
         "monthEnd": true
       }
     ]
   },
   {
     "id": 8244,
-    "label": "EGEPARGNE 2 DIVERSIFIE PART A",
+    "label": "EGEPARGNE 2 DIVERSIFIE A",
     "product": "PERO",
     "history": [
       {
@@ -179322,13 +179394,21 @@
           "value": 15.86004,
           "currencyCode": "EUR"
         },
+        "monthEnd": false
+      },
+      {
+        "date": "2026-06-26",
+        "amount": {
+          "value": 15.82063,
+          "currencyCode": "EUR"
+        },
         "monthEnd": true
       }
     ]
   },
   {
     "id": 8243,
-    "label": "EGEPARGNE 1 OBLIGATAIRE PART A",
+    "label": "EGEPARGNE 1 OBLIGATAIRE A",
     "product": "PERO",
     "history": [
       {
@@ -180225,6 +180305,14 @@
           "value": 15.44556,
           "currencyCode": "EUR"
         },
+        "monthEnd": false
+      },
+      {
+        "date": "2026-06-26",
+        "amount": {
+          "value": 15.44636,
+          "currencyCode": "EUR"
+        },
         "monthEnd": true
       }
     ]
@@ -180816,13 +180904,21 @@
           "value": 105.4,
           "currencyCode": "EUR"
         },
+        "monthEnd": false
+      },
+      {
+        "date": "2026-06-26",
+        "amount": {
+          "value": 104.34,
+          "currencyCode": "EUR"
+        },
         "monthEnd": true
       }
     ]
   },
   {
     "id": 7243,
-    "label": "EDF SOLIDAIRE ET BAS-CARBONE PART A",
+    "label": "EDF SOLIDAIRE ET BAS-CARBONE A",
     "product": "PERO",
     "history": [
       {
@@ -189991,6 +190087,14 @@
           "value": 23.59,
           "currencyCode": "EUR"
         },
+        "monthEnd": false
+      },
+      {
+        "date": "2026-06-26",
+        "amount": {
+          "value": 23.58,
+          "currencyCode": "EUR"
+        },
         "monthEnd": true
       }
     ]
@@ -193854,6 +193958,14 @@
           "value": 31.539,
           "currencyCode": "EUR"
         },
+        "monthEnd": false
+      },
+      {
+        "date": "2026-06-29",
+        "amount": {
+          "value": 31.546,
+          "currencyCode": "EUR"
+        },
         "monthEnd": true
       }
     ]
@@ -196229,6 +196341,14 @@
           "value": 15.01661,
           "currencyCode": "EUR"
         },
+        "monthEnd": false
+      },
+      {
+        "date": "2026-06-26",
+        "amount": {
+          "value": 14.72903,
+          "currencyCode": "EUR"
+        },
         "monthEnd": true
       }
     ]
@@ -196424,7 +196544,7 @@
   },
   {
     "id": 1103,
-    "label": "EGEPARGNE ACTIONS CROISSANCE EURO PART A",
+    "label": "EGEPARGNE ACTIONS CROISSANCE EURO A",
     "product": "PERO",
     "history": [
       {
@@ -197321,13 +197441,21 @@
           "value": 103.28,
           "currencyCode": "EUR"
         },
+        "monthEnd": false
+      },
+      {
+        "date": "2026-06-26",
+        "amount": {
+          "value": 103.41,
+          "currencyCode": "EUR"
+        },
         "monthEnd": true
       }
     ]
   },
   {
     "id": 1073,
-    "label": "EGEPARGNE ACTIONS MONDE PART A",
+    "label": "EGEPARGNE ACTIONS MONDE A",
     "product": "PERO",
     "history": [
       {
@@ -198238,6 +198366,14 @@
         "date": "2026-06-25",
         "amount": {
           "value": 16.45,
+          "currencyCode": "EUR"
+        },
+        "monthEnd": false
+      },
+      {
+        "date": "2026-06-26",
+        "amount": {
+          "value": 16.37,
           "currencyCode": "EUR"
         },
         "monthEnd": true
