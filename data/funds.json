@@ -59513,6 +59513,14 @@
           "value": 151.64604,
           "currencyCode": "EUR"
         },
+        "monthEnd": false
+      },
+      {
+        "date": "2026-07-22",
+        "amount": {
+          "value": 151.57804,
+          "currencyCode": "EUR"
+        },
         "monthEnd": true
       }
     ]
@@ -100757,6 +100765,14 @@
         "date": "2026-07-21",
         "amount": {
           "value": 286.4799,
+          "currencyCode": "EUR"
+        },
+        "monthEnd": false
+      },
+      {
+        "date": "2026-07-22",
+        "amount": {
+          "value": 286.38183,
           "currencyCode": "EUR"
         },
         "monthEnd": true
@@ -162603,6 +162619,14 @@
           "value": 23.51,
           "currencyCode": "EUR"
         },
+        "monthEnd": false
+      },
+      {
+        "date": "2026-07-22",
+        "amount": {
+          "value": 23.5,
+          "currencyCode": "EUR"
+        },
         "monthEnd": true
       }
     ]
@@ -166682,6 +166706,14 @@
           "value": 31.641,
           "currencyCode": "EUR"
         },
+        "monthEnd": false
+      },
+      {
+        "date": "2026-07-23",
+        "amount": {
+          "value": 31.643,
+          "currencyCode": "EUR"
+        },
         "monthEnd": true
       }
     ]
@@ -169671,6 +169703,14 @@
         "date": "2026-07-21",
         "amount": {
           "value": 15.92965,
+          "currencyCode": "EUR"
+        },
+        "monthEnd": false
+      },
+      {
+        "date": "2026-07-22",
+        "amount": {
+          "value": 15.92249,
           "currencyCode": "EUR"
         },
         "monthEnd": true
@@ -172680,6 +172720,14 @@
           "value": 16.68743,
           "currencyCode": "EUR"
         },
+        "monthEnd": false
+      },
+      {
+        "date": "2026-07-22",
+        "amount": {
+          "value": 16.6817,
+          "currencyCode": "EUR"
+        },
         "monthEnd": true
       }
     ]
@@ -175429,6 +175477,14 @@
         "date": "2026-07-21",
         "amount": {
           "value": 13.11143,
+          "currencyCode": "EUR"
+        },
+        "monthEnd": false
+      },
+      {
+        "date": "2026-07-22",
+        "amount": {
+          "value": 13.20149,
           "currencyCode": "EUR"
         },
         "monthEnd": true
@@ -180481,6 +180537,14 @@
         "date": "2026-07-21",
         "amount": {
           "value": 98.43,
+          "currencyCode": "EUR"
+        },
+        "monthEnd": false
+      },
+      {
+        "date": "2026-07-22",
+        "amount": {
+          "value": 99.31,
           "currencyCode": "EUR"
         },
         "monthEnd": true
@@ -192607,6 +192671,14 @@
           "value": 23.51,
           "currencyCode": "EUR"
         },
+        "monthEnd": false
+      },
+      {
+        "date": "2026-07-22",
+        "amount": {
+          "value": 23.5,
+          "currencyCode": "EUR"
+        },
         "monthEnd": true
       }
     ]
@@ -200377,6 +200449,14 @@
           "value": 103.37,
           "currencyCode": "EUR"
         },
+        "monthEnd": false
+      },
+      {
+        "date": "2026-07-22",
+        "amount": {
+          "value": 103.85,
+          "currencyCode": "EUR"
+        },
         "monthEnd": true
       }
     ]
@@ -201430,6 +201510,14 @@
         "date": "2026-07-21",
         "amount": {
           "value": 16.74,
+          "currencyCode": "EUR"
+        },
+        "monthEnd": false
+      },
+      {
+        "date": "2026-07-22",
+        "amount": {
+          "value": 16.72,
           "currencyCode": "EUR"
         },
         "monthEnd": true
