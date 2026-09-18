@@ -105110,6 +105110,14 @@
           "value": 12.23451,
           "currencyCode": "EUR"
         },
+        "monthEnd": false
+      },
+      {
+        "date": "2026-09-16",
+        "amount": {
+          "value": 12.29606,
+          "currencyCode": "EUR"
+        },
         "monthEnd": true
       }
     ]
